@@ -1,7 +1,9 @@
 # 🌘 Hello, I'm Noctyra
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;UX%2FUI+Designer;Creative+Coder;Tech+Explorer)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;UX%2FUI+Designer;Creative+Coder;Tech+Explorer)
+
 </div>
 ---
 
