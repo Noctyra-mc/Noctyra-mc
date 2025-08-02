@@ -1,7 +1,7 @@
 # 🌘 Hello, I'm Noctyra
-
+<p>&nbsp;</p>
 <div align="center">
-  
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A63D2&width=600&lines=%20Learning+to+code+%7C+Drawing+%7C+Exploring;%20Student+from+France+%7C+Dark+Theme+Lover;%20Building+little+things+just+for+fun)
 
 </div>
