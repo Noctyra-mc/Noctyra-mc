@@ -43,7 +43,7 @@ Currently exploring and experimenting with:
 - 🎒 Student in 🇫🇷
 - 🖤 Loves black, violet, shadows & contrast
 - 🐈 Has a cat (and he’s chaos sometimes)
-- ✍️ Often sketching in notebooks or pixel apps
+- ✍️ Often sketching in notebooks or apps
 
 ---
 
