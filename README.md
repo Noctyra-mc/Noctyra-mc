@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 Hi, I'm Eléa — also known online as Noctyra 🖤  
 A 16-year-old student from France, passionate about design, creativity and discovery.  
 I’m learning web development little by little and enjoying the process.
